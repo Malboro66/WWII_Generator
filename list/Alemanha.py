@@ -110,3 +110,29 @@ german_citys = [
         "Dortmund","Essen","Bochum","Duisburg","Münster","Stuttgart","Mannheim","Karlsruhe","Ulm","Heilbronn","Wien","Graz","Linz","Salzburgo","Innsbruck",
         "Reichenberg ","Aussig ","Karlsbad ","Troppau ","Asch",        
 ]   
+
+german_ranks_army = {
+    "Generals": ["Generalfeldmarschall", "Generaloberst", "General der Waffengattung", "Generalleutnant", "Generalmajor"],
+    "Field Officers": ["Oberst", "Oberstleutnant", "Major"],
+    "Company Officers": ["Hauptmann", "Oberleutnant", "Leutnant"],
+    "Non-commissioned Officers": ["Stabsfeldwebel", "Oberfeldwebel", "Feldwebel", "Unterfeldwebel"],
+    "Enlisted Men": ["Unteroffizier", "Gefreiter", "Oberschütze", "Schütze"]
+}
+
+german_ranks_air = {
+    "Generalsränge": ["Reichsmarschall", "Generalfeldmarschall", "Generaloberst", "General der Waffengattung", "Generalleutnant", "Generalmajor"],
+    "Offiziersränge": ["Oberst", "Oberstleutnant", "Major", "Hauptmann", "Oberleutnant", "Leutnant"],
+    "Unteroffiziere/Offizieranwärter": ["Stabsfeldwebel-Fahnenjunker", "Stabsfeldwebel", "Fahnenjunker-Oberfeldwebel",
+                                       "Oberfeldwebel","Fahnenjunker-Feldwebel","Feldwebel","Fahnenjunker-Unterfeldwebel",
+                                       "Unterfeldwebel","Fahnenjunker-Unteroffizier","Unteroffizier"],
+    "Mannschaften": ["Stabsgefreiter","Hauptgefreiter","Obergefreiter","Gefreiter","Flieger"]
+}
+
+german_ranks_navy = {
+    "Admiralität": ["Großadmiral","Generaladmiral","Admiral","Vizeadmiral","Konteradmiral"],
+    "Seeoffiziere": ["Kapitän zur See","Fregattenkapitän","Korvettenkapitän","Kapitänleutnant","Oberleutnant zur See","Leutnant zur See"],
+    "Portepeeunteroffiziere": ["Stabsobersteuermann","Obersteuermann","Steuermannsmaat"],
+    "Unteroffiziere ohne Portepee": ["Oberbootsmannsmaat","Bootsmannsmaat"],
+    "Mannschaften": ["Matrosenobergefreiter","Matrosengefreiter","Matrose"]
+}
+

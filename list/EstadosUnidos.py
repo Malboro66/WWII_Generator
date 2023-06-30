@@ -114,3 +114,18 @@ american_surnames = ["Smith","Johnson","Williams","Brown","Jones","Garcia","Mill
 ]
 
 american_citys=[]
+
+american_ranks_army = {
+    "Oficiais": ["General of the Army", "General", "Lieutenant General", "Major General", "Brigadier General", "Colonel", "Lieutenant Colonel", "Major", "Captain", "First Lieutenant", "Second Lieutenant"],
+    "Suboficiais e Praças": ["Master Sergeant (M/Sgt.)", "First Sergeant (1st Sgt.)", "Technical Sergeant (T/Sgt.)", "Staff Sergeant (S/Sgt.)", "Sergeant (Sgt.)", "Corporal (Cpl.)", "Private First Class (Pfc.)", "Private / Specialist (Pvt.)"]
+}
+
+american_ranks_air = {
+    "Oficiais": ["General of the Air Force", "General", "Lieutenant General", "Major General", "Brigadier General", "Colonel", "Lieutenant Colonel", "Major", "Captain", "First Lieutenant", "Second Lieutenant"],
+    "Suboficiais e Praças": ["Chief Master Sergeant of the Air Force", "Chief Master Sergeant", "Senior Master Sergeant", "Master Sergeant", "Technical Sergeant", "Staff Sergeant", "Senior Airman", "Airman First Class",  "Airman","Airman Basic"]
+}
+
+american_ranks_navy = {
+    "Oficiais": ["Fleet Admiral","Admiral","Vice Admiral","Rear Admiral","Commodore","Captain","Commander","Lieutenant Commander","Lieutenant","Lieutenant Junior Grade","Ensign"],
+    "Suboficiais e Praças": ["Master Chief Petty Officer of the Navy","Master Chief Petty Officer","Senior Chief Petty Officer","Chief Petty Officer","Petty Officer First Class","Petty Officer Second Class","Petty Officer Third Class","Seaman","Seaman Apprentice","Seaman Recruit"]
+}
