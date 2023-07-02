@@ -1,6 +1,15 @@
 # LiSTA DE NOMES E SOBRENOMES ITALIANOS ESTADOS E CIDADES
 
-italian_names = ["Francesco", "Alessandro", "Andrea", "Giovanni", "Mario"]
+italian_names = ["Antonio", "Alessandro", "Andrea", "Angelo", "Alberto", "Alessio", "Alfredo", "Arturo", "Bruno", "Beniamino", "Carlo", "Cristiano",
+"Cesare", "Daniele", "Dario", "Diego", "Domenico", "Emilio", "Enrico", "Edoardo", "Fabio", "Federico", "Francesco", "Filippo",
+"Gabriele", "Giacomo", "Giovanni", "Giuseppe", "Guido", "Luca", "Lorenzo", "Leonardo", "Michele", "Marco", "Massimo", "Matteo",
+"Mario", "Nicola", "Nicolò", "Orlando", "Pietro", "Paolo", "Riccardo", "Roberto", "Salvatore", "Simone", "Stefano", "Tommaso",
+"Umberto", "Vincenzo", "Valerio", "Antonino", "Agostino", "Angelo", "Alfonso", "Adriano", "Davide", "Emanuele", "Ettore",
+"Fabrizio", "Fausto", "Ferruccio", "Giancarlo", "Giovanni", "Guglielmo", "Gaspare", "Ivan", "Igor", "Jacopo", "Lorenzo",
+"Ludovico", "Luigi", "Leandro", "Mauro", "Maurizio", "Nico", "Nando", "Nino", "Orazio", "Pasquale", "Piero", "Pietro",
+"Raffaele", "Renato", "Romeo", "Sandro", "Sebastiano", "Silvio", "Tiziano", "Tomaso", "Ugo", "Valentino", "Vittorio", "Vito",
+"Vincenzo", "Zeno", "Zenone", "Albino", "Amedeo", "Antonello", "Armando", "Arturo", "Benedetto", "Biagio", "Calogero",
+"Camillo", "Carmine", "Cesare", "Clemente", "Ciro", "Costantino"]
 
 italian_surnames = ["Rossi","Russo","Ferrari","Esposito","Colombo","Bianchi","Romano","Ricci","Gallo","Dal","Bruno","Greco","Marino","Conti","Giordano",
 "Rizzo","de Luca","Costa","Mancini","Lombardi","Barbieri","Fontana","Moretti","Mariani","Caruso","Galli","Ferrara","Santoro","Rinaldi","Longo","Villa",
@@ -68,4 +77,26 @@ italian_surnames = ["Rossi","Russo","Ferrari","Esposito","Colombo","Bianchi","Ro
 "Sebastiani",
 ]
 
-italy_citys=[]
+italy_citys=["Abruzzo/L'Aquila", "Abruzzo/Pescara", "Abruzzo/Chieti", "Abruzzo/Teramo", "Basilicata/Potenza", "Basilicata/Matera", "Calabria/Cosenza",
+"Calabria/Catanzaro", "Calabria/Reggio di Calabria", "Calabria/Crotone", "Calabria/Vibo Valentia", "Campania/Napoli", "Campania/Salerno",
+"Campania/Caserta", "Campania/Benevento", "Campania/Avellino", "Emilia-Romagna/Bologna", "Emilia-Romagna/Modena", "Emilia-Romagna/Parma",
+"Emilia-Romagna/Ravenna", "Emilia-Romagna/Ferrara", "Emilia-Romagna/Forlì", "Emilia-Romagna/Reggio Emilia", "Emilia-Romagna/Piacenza",
+"Emilia-Romagna/Rimini", "Friuli-Venezia Giulia/Trieste", "Friuli-Venezia Giulia/Udine", "Friuli-Venezia Giulia/Pordenone",
+"Lazio/Roma", "Lazio/Latina", "Lazio/Frosinone", "Lazio/Viterbo", "Lazio/Rieti", "Liguria/Genova", "Liguria/La Spezia",
+"Liguria/Savona", "Liguria/Imperia", "Lombardia/Milano", "Lombardia/Bergamo", "Lombardia/Brescia", "Lombardia/Como",
+"Lombardia/Cremona", "Lombardia/Mantova", "Lombardia/Pavia", "Lombardia/Sondrio", "Lombardia/Varese", "Marche/Ancona",
+"Marche/Pesaro", "Marche/Macerata", "Marche/Fermo", "Marche/Ascoli Piceno", "Molise/Campobasso", "Molise/Isernia", "Piemonte/Torino",
+"Piemonte/Alessandria", "Piemonte/Novara", "Piemonte/Cuneo", "Piemonte/Asti", "Piemonte/Vercelli", "Piemonte/Biella",
+"Piemonte/Verbano-Cusio-Ossola", "Puglia/Bari", "Puglia/Foggia", "Puglia/Lecce", "Puglia/Taranto", "Puglia/Brindisi",
+"Puglia/Barletta-Andria-Trani", "Sardegna/Cagliari", "Sardegna/Sassari", "Sardegna/Nuoro", "Sardegna/Oristano", "Sardegna/Ogliastra",
+"Sardegna/Carbonia-Iglesias", "Sardegna/Medio Campidano", "Sardegna/Olbia-Tempio", "Sicilia/Palermo", "Sicilia/Catania",
+"Sicilia/Messina", "Sicilia/Siracusa", "Sicilia/Ragusa", "Sicilia/Trapani", "Sicilia/Agrigento",]
+
+italy_ranks_army = {"Oficiais": [""],
+    "Suboficiais e Praças": [""]}
+
+italy_ranks_air = {"Oficiais": [""],
+    "Suboficiais e Praças": [""]}
+
+italy_ranks_navy = {"Oficiais": [""],
+    "Suboficiais e Praças": [""]}

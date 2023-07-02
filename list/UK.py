@@ -83,3 +83,12 @@ uk_surnames = ["Smith","Jones","Williams","Taylor","Brown","Davies","Evans","Wil
 ]
 
 uk_citys=[]
+
+uk_ranks_army = {"Oficiais": [""],
+    "Suboficiais e Praças": [""]}
+
+uk_ranks_air = {"Oficiais": [""],
+    "Suboficiais e Praças": [""]}
+
+uk_ranks_navy = {"Oficiais": [""],
+    "Suboficiais e Praças": [""]}

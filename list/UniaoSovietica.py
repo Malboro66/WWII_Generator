@@ -1,6 +1,6 @@
 # LiSTA DE NOMES E SOBRENOMES SOVIETICOS ESTADOS E CIDADES
 
-ussr_names = ["Abram","Adam","Adrian","Afanasiy","Afanasy","Akim","Albert","Aleks","Aleksandr","Aleksei","Aleksey","Alex","Alexandr","Alexei","Alexey",
+union_names = ["Abram","Adam","Adrian","Afanasiy","Afanasy","Akim","Albert","Aleks","Aleksandr","Aleksei","Aleksey","Alex","Alexandr","Alexei","Alexey",
 "Alyosha","Anastas","Anatoli","Anatoliy","Anatoly","Andrei","Andrey","Anisim","Anton","Aristarkh","Arkadi","Arkadiy","Arkady","Arkhip","Arseni","Arseniy",
 "Artem","Artemiy","Artur","Artyom","Avgust","Avksentiy","Benedikt","Bogdan","Boleslav","Boris","Borislav","Borya","Bronislav","Daniil","David","Demyan",
 "Denis","Desya","Dima","Dimitri","Dmitri","Dmitrii","Dmitriy","Dmitry","Dorofei","Dorofey","Eduard","Emil","Ermolai","Evgeni","Evgeniy","Evgeny","Faddei",
@@ -21,7 +21,7 @@ ussr_names = ["Abram","Adam","Adrian","Afanasiy","Afanasy","Akim","Albert","Alek
 "Yemelyan","Yermolai","Yevgeni","Yevgeniy","Yevgeny","Yuli","Yulian","Yuliy","Yuri","Yuriy","Zakhar","Zhenya","Zinoviy",
 ]
 
-ussr_surnames = ["Ivanova","Ivanov","Kuznetsova","Kuznetsov","Petrov","Smirnova","Magomedov","Petrova","Smirnov","Popov","Popova","Volkova","Novikova","Morozova",
+union_surnames = ["Ivanova","Ivanov","Kuznetsova","Kuznetsov","Petrov","Smirnova","Magomedov","Petrova","Smirnov","Popov","Popova","Volkova","Novikova","Morozova",
 "Sokolova","Pavlova","Romanova","Volkov","Shevchenko","Andreeva","Vasilev","Vasileva","Mikhaylova","Novikov","Makarova","Morozov","Sergeeva","Pavlov","Zaytseva",
 "Sokolov","Aliev","Mikhaylov","Nikolaeva","Romanov","Zakharova","Makarov","Stepanova","Lebedeva","Kozlova","Nikitina","Egorova","Egorov","Kozlov","Nikolaev",
 "Stepanov","Andreev","Yakovleva","Zakharov","Kovalenko","Frolova","Orlova","Sergeev","Bondarenko","Nikitin","Zaytsev","Medvedev","Kotova","Orlov","Belova",
@@ -93,4 +93,13 @@ ussr_surnames = ["Ivanova","Ivanov","Kuznetsova","Kuznetsov","Petrov","Smirnova"
 "Popkov","Zubova","Garaeva","Korshunov","Sinitsyn","Starikov","Sukharev","Milaya","Afanasyev","Babaev","Eryomina","Bashtaev","Solnyshko",
 ]
 
-ussr_citys=[]
+union_citys=[]
+
+union_ranks_army = {"Oficiais": [""],
+    "Suboficiais e Praças": [""]}
+
+union_ranks_air = {"Oficiais": [""],
+    "Suboficiais e Praças": [""]}
+
+union_ranks_navy = {"Oficiais": [""],
+    "Suboficiais e Praças": [""]}
